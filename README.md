@@ -77,7 +77,7 @@ print(y_predicted1)
 
 ## Output:
 ![Output](SS1.png)
-![Output](SS2.png)
+
 
 
 ## Result:
